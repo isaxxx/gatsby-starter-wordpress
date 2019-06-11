@@ -39,3 +39,6 @@ were gratefully received from the following folks:
 
 * https://github.com/tomByrer
 * https://github.com/dajocarter
+
+# memo
+必ず上記の手順で作成する
